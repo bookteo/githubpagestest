@@ -11,16 +11,16 @@ $header-bg-color-secondary: #8CA571 !default;
 $section-headings-color: #8CA571 !default;
 $body-text-color: #000000 !default;
 $body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
+$blockquote-text-color: #A89A8E !default;
 
 // Code
 $code-bg-color: #f3f6fa !default;
-$code-text-color: #567482 !default;
+$code-text-color: #000000 !default;
 
 // Borders
-$border-color: #dce6f0 !default;
-$table-border-color: #e9ebec !default;
-$hr-border-color: #eff0f1 !default;
+$border-color: #A89A8E !default;
+$table-border-color: #A89A8E !default;
+$hr-border-color: #A89A8E !default;
 
 @import "{{ site.theme }}";
 
