@@ -3,9 +3,26 @@
 
 @import "{{ site.theme }}";
 
+/* COLOR PALETTE
+3 MAIN Colors
+Green #8CA571
+Blue #7391C8
+Brown ##A47864
+
+Extra
+White #F1E8DF
+Violett #A692BA
+Grey #A89A8E
+Willow #9A8B4F
+Rose #D19C97
+*/
 .page-header {
     color: #fff;
     text-align: center;
-    background-color: #88B04B;
-    background-image: linear-gradient(120deg, #92A8D1, #88B04B)
+    background-color: #7391C8;
+    background-image: linear-gradient(120deg, #7391C8, #9A8B4F)
+}
+
+body {
+  background-color: blue;
 }
