@@ -1,7 +1,7 @@
 Readme File
 
 #Color Palette
-- Green ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#8CA571`
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#8CA571`
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#7391C8`
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#A47864`
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#F1E8DF`
